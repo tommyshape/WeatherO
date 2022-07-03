@@ -22,8 +22,10 @@
 </div>
 </div>
 
-<iframe src="https://giphy.com/embed/0Styincf6K2tvfjb5Q" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monahayslett-clouds-weather-cloudy-0Styincf6K2tvfjb5Q">via GIPHY</a></p>
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/0Styincf6K2tvfjb5Q" width="100"/>
+</div>
 
 
 
