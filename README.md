@@ -12,13 +12,13 @@
   <h2>Screen shots</h2>
   
 <span id="header">
-  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191358.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191358.png" width="200"/>
 </span>
 <span id="header">
-  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191415.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191415.png" width="200"/>
 </span>
 <span id="header">
-  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191453.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/Screenshot_20220703-191453.png" width="200"/>
 </span>
   
 
