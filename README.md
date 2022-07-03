@@ -22,7 +22,7 @@
 </div>
 
 <div id="header" align="center">
-  <h1>Tools used and features</h1>
+  <h2>Tools used and features</h2>
   <ul>
   <li>Draws data from OpenWeatherMap using Retrofit client</li>
   <li>Weather forecast of GPS location can be added</li>
