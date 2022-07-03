@@ -1,7 +1,7 @@
 # WeatherO
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/app/src/main/res/drawable/icon.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/app/src/main/res/drawable/icon.png" width="150"/>
 </div>
 
 
