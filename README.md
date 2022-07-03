@@ -26,7 +26,7 @@
   <ul>
   <li>Draws data from OpenWeatherMap using Retrofit client</li>
   <li>Weather forecast of GPS location can be added</li>
-  <li>Every city supported by OpenWeatherMap can be searched</li>
+  <li>Search bar supports every city available on OpenWeatherMap</li>
 </ul> 
 </div>
 
