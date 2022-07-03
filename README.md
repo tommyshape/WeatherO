@@ -3,7 +3,13 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/tommyshape/WeatherO/master/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" width="100"/>
 </div>
-<div id="badges">
+
+
+
+
+
+<div id="header" align="center">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,3 +20,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
+
+
+
+
+
